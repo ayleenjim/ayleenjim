@@ -1,4 +1,4 @@
 ## Welcome to My Profile 👋
 
 # About Me
-My name is Ayleen Jimenez. I'm an undergrad at the University of Texas Rio Grande Valley majoring in Computer Science. I am interested in software engineering, product management, data science, and AI. 
+My name is Ayleen Jimenez. I'm a Computer Science graduate from the University of Texas Rio Grande Valley with a minor in Business Administration. I am interested in data analytics, product management, data science, strategy, and AI. 
